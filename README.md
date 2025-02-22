@@ -11,4 +11,4 @@
 * Agents available to orchestrator as tools
 * Semantic Memory for Long Term Recall
 * Scraping as a Service
-* Multimodal Scraping
+* Multimodal Multi-threaded Scraping
