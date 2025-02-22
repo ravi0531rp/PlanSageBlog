@@ -12,3 +12,4 @@
 * Semantic Memory for Long Term Recall
 * Scraping as a Service
 * Multimodal Multi-threaded Scraping
+* Curated prompts for switching LLMs seamlessly
